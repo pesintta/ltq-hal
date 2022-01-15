@@ -1,2 +1,2 @@
 
-obj-m += ltq-hal.o
+obj-m += ltq_hal.o
