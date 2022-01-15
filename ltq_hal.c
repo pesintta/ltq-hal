@@ -15,3 +15,5 @@ void cleanup_module(void)
 {
 	printk(KERN_INFO "ltq-hal v0.1 exit\n");
 }
+
+MODULE_LICENSE("GPL")
